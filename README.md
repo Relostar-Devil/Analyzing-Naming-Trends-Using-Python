@@ -14,14 +14,16 @@
  visualization using pandas library but also tests your ability to deal with real word
  problem statements.
  
- #Dataset:
+ # Dataset:
  
- Popular baby names data provided by the Social Security Administration (SSA)
- of the United States.
+ Popular baby names data provided by the Social Security Administration (SSA) of the United States.
  
  How to download the dataset:
+ 
  ● Gotohttps://www.ssa.gov/oact/babynames/limits.html
+ 
  ● Click on ‘National data’
+ 
  ● Get the zipped file
  
  Here’s what the zipped folder looks like:
